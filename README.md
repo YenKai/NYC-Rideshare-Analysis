@@ -61,8 +61,7 @@ Find trip counts within a specified range for different pickup boroughs and time
 Calculate trips in the evening time and trips from Brooklyn to Staten Island.
 ### Task 7: Routes Analysis
 Analyze the top 10 popular routes based on trip count.
-Optional Task 8: Graph Processing
-Define vertex and edge schemas and construct dataframes.
+
 
 ## License
 The dataset is distributed under the MIT license.
